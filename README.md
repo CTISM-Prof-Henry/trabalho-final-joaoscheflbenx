@@ -101,14 +101,14 @@ Marque com `[x]` os elementos que **foram implementados no seu site**. Você nã
 
 ## ⚙️ JavaScript
 
-- [ ] Manipulação do DOM
+- [x] Manipulação do DOM
 - [x] Eventos (`click`, `submit`, etc.)
 - [x] Validação de formulário
 - [x] Alteração dinâmica de conteúdo
 - [x] Uso de funções
 - [x] Uso de arrays ou objetos
-- [ ] Uso de `fetch` ou API externa
-- [ ] local Storage
+- [x] Uso de `fetch` ou API externa
+- [x] local Storage
 
 
 ## 📂 Estrutura do projeto
